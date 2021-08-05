@@ -1,0 +1,15 @@
+package rpg_game;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+public class BotaPrataTest {
+
+	@Test
+	public void testBotaPrata() {
+		BotaPrata botaPrata = new BotaPrata();
+		assertEquals(2, botaPrata.getForca());;
+	}
+
+}

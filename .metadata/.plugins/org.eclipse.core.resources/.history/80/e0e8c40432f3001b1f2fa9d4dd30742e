@@ -1,0 +1,99 @@
+package rpg_game;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+public class ArqueiroTest {
+
+	
+	@Test
+	public void levelTest() {
+		int level = this.getLevel();
+        this.setLevel(level+1);
+	}
+
+	
+	
+	private void setLevel(int i) {
+		// TODO Auto-generated method stub
+		
+	}
+
+
+
+	private int getLevel() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+
+
+	@Test
+	public void forcaTest() {
+		int forca = this.getForca();
+        this.setForca(forca+1);
+	}
+
+	
+	
+	private void setForca(int i) {
+		// TODO Auto-generated method stub
+		
+	}
+
+
+
+	private int getForca() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+
+
+	@Test
+	public void agilidadeTest() {
+		int agilidade = this.getAgilidade();
+        this.setAgilidade(agilidade+3);
+	}
+
+	
+	
+	private void setAgilidade(int i) {
+		// TODO Auto-generated method stub
+		
+	}
+
+
+
+	private int getAgilidade() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+
+
+	@Test
+	public void inteligenciaTest() {
+		int inteligencia = this.getInteligencia();
+        this.setInteligencia(inteligencia+1);
+	}
+
+
+
+	private void setInteligencia(int i) {
+		// TODO Auto-generated method stub
+		
+	}
+
+
+
+	private int getInteligencia() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	
+	
+
+}

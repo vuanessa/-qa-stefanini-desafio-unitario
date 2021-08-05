@@ -1,0 +1,22 @@
+package rpg_game;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+public class MagoTest {
+
+	@Test
+	public void testMagoForca() {
+		Mago mago = new Mago();
+		assertEquals(2, mago.getForca());
+	}
+
+	@Test
+	public void testLvlUp() {
+		Mago mago = new Mago();
+		mago.lvlUp();
+		assertEquals(2, mago.getLevel());
+	}
+
+}

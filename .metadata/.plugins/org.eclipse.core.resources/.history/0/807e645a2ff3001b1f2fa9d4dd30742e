@@ -1,0 +1,49 @@
+package rpg_game;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+public class BotaTest {
+
+	@Test
+	public void testGetForca() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testSetForca() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testGetAgilidade() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testSetAgilidade() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testGetInteligencia() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testSetInteligencia() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testGetNomeBota() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testSetNomeBota() {
+		fail("Not yet implemented");
+	}
+
+}

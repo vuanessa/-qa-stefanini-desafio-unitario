@@ -1,0 +1,85 @@
+package rpg_game;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+public class PersonagemTest {
+
+	@Test
+	public void testGetAgilidade() {
+		Personagem personagem = new Personagem();
+		personagem.setAgilidade(0);
+	}
+
+	@Test
+	public void testSetAgilidade() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testGetForca() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testSetForca() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testGetInteligencia() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testSetInteligencia() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testGetHp() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testSetHp() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testGetMana() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testSetMana() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testSetLevel() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testGetLevel() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testEquiparBota() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testExibirDadosInicialJogador() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testExibirNovosDadosJogador() {
+		fail("Not yet implemented");
+	}
+
+}

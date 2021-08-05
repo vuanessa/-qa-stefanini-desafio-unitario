@@ -1,0 +1,14 @@
+package rpg_game;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+public class BotaTest {
+
+	@Test
+	public void test() {
+		fail("Not yet implemented");
+	}
+
+}
